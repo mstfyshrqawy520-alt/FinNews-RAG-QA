@@ -1,0 +1,31 @@
+# Development files
+.git
+.gitignore
+.env.example
+README.md
+*.md
+
+# Node
+node_modules
+npm-debug.log
+.npm
+.yarn
+
+# Python
+__pycache__
+*.pyc
+.Python
+env/
+venv/
+.venv
+*.egg-info/
+
+# IDEs
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
